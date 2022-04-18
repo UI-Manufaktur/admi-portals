@@ -1,2 +1,2 @@
-# admi-portals
+# admin-portals
 Administration of portals apps
